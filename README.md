@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bakir Pasalic</h1>
 <h3 align="center">A passionate Web Developer | Software Developer from Bosnia</h3>
 
-<img align = "right" alt = "code" width="400" src="https://i.gifer.com/Ry6p.gif"> 
+<img align = "right" alt = "code" width="400" src="[https://i.gifer.com/Ry6p.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fplanet-loading-codecosmos-GvaXyKoX2QkDgvRLLA&psig=AOvVaw0FtajhhWXpomB-nb21Wk1z&ust=1721416311942000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiq7PSnsYcDFQAAAAAdAAAAABAE)"> 
 
 - 🌱 I’m currently learning **React | Python | Node.js**
 
